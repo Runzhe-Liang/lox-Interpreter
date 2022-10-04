@@ -1,2 +1,3 @@
-# lox-VM-Interpreter
-A byte-code virtual machine interpreter for the lox language.
+# lox-Interpreter
+Two different implementations of the interpreter for the lox language, a compact yet full-fledged scripting language with dynamic type and garbage collection. 
+The first interpreter, jlox, is based on Java and scanning-tree; the second interpreter, clox, is a byte-code virual machine.
